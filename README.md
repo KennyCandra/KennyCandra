@@ -131,7 +131,7 @@ Lightweight cross-platform desktop application
 
 I'm actively seeking **remote full-time software engineering opportunities** where I can contribute to building scalable, impactful applications.
 
-- 💼 **Portfolio:** [kenny-gamma.vercel.app](https://kenny-gamma.vercel.app/)
+- 💼 **Portfolio:** [kenncandra.dev](https://kenncandra.dev/)
 - 💌 **Email:** [ahmedabdelrhaman232@gmail.com](mailto:ahmedabdelrhaman232@gmail.com)
 - 🔗 **LinkedIn:** [ahmed-abdelrhaman](https://linkedin.com/in/ahmed-abdelrhaman-89bbb3203)
 - 📍 **Location:** Cairo, Egypt
