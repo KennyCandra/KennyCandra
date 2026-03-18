@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-kenny--gamma.vercel.app-blue?style=for-the-badge&logo=vercel)](https://kenny-gamma.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-kenny--gamma.vercel.app-blue?style=for-the-badge&logo=vercel)](https://kennycandra.dev)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahmed-abdelrhaman-89bbb3203)
   [![Email](https://img.shields.io/badge/Email-ahmedabdelrhaman232%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedabdelrhaman232@gmail.com)
 
