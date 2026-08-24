@@ -114,7 +114,7 @@ AI-enhanced prescription and patient-record platform.
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyCandra&layout=compact&theme=tokyonight&hide_border=true)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KennyCandra&theme=tokyonight&hide_border=true)
+  ![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=KennyCandra&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=KennyCandra&theme=tokyonight&hide_border=true))
 
 </div>
 
